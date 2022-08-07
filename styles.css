@@ -1,0 +1,17 @@
+body{
+    background-color: skyblue
+}
+
+.character {
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.character-slide {
+    height: 70px;
+    width: 40px;
+    position: absolute;
+    bottom: 0px;
+}
